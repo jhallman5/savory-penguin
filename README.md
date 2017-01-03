@@ -28,6 +28,8 @@ Databases:
  
  ## Resources created by the team 
 
+SQL Basics -> <a href="https://medium.com/@johnphiliphallmanv/sql-basic-info-fd73aa2d4670#.iev8wtc7n">blogpost</a> written by Mike
+<br/>
 JavaScript Basics -> <a href="https://medium.com/@bbking/learning-series-javascript-basic-ee898e04b1d0#.lk55h8bs2">blogpost</a> written by Brian
 <br/>
 jQuery basics -> <a href="https://medium.com/@bbking/jquery-ce0d1cba9e2e#.dobvpqk1e">blogpost</a> written by Brian
